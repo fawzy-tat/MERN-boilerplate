@@ -10,6 +10,8 @@ This is my personal MERN stack boilerplate which speeds up development process.
 
 - Clean routing using react-router-dom and Switch
 
+* Netlify setup
+
 ## Back-end ( NodeJs )
 
 - Boilerplated express app with clean file structure includiong ( Config - DB - Modules with controllers and models - Validation - helpers - middlewares - routes )
